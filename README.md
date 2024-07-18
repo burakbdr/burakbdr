@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">I'm particularly interested in financial markets and enjoy exploring how data science can provide insights and drive decisions. If you have any ideas or projects related to financial markets, I'd love to hear from you!</p>
+<p align="left">I'm particularly interested in financial markets and enjoy exploring how data science can provide insights and drive decisions in the market. If you have any ideas or projects related to financial markets, I'd love to hear from you!</p>
 
 ###
 
