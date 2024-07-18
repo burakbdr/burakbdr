@@ -1,4 +1,4 @@
-## Hi, I'm Burak 👋
+## Hello! 👋
 
 <p align="left">I'm a passionate Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. I enjoy transforming raw data into actionable insights and building innovative solutions to complex problems</p>
 
