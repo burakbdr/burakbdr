@@ -1,15 +1,12 @@
 ## Hi, I'm Burak 👋
 
-<p align="left">Hi there! I'm a passionate Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. I enjoy transforming raw data into actionable insights and building innovative solutions to complex problems</p>
+<p align="left">I'm a passionate Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. I enjoy transforming raw data into actionable insights and building innovative solutions to complex problems</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mbbedir/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mburakbedir@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@mburakbedir" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
@@ -22,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -50,12 +47,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=mburakbedir&theme=default" alt="Layout with last medium posts"  />
-</div>
+<p align="left">I'm particularly interested in financial markets and enjoy exploring how data science can provide insights and drive decisions. If you have any ideas or projects related to financial markets, I'd love to hear from you!</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/burakbdr/burakbdr/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://media.giphy.com/media/QEArKBwKJm12r8t7w6/giphy.gif?cid=790b76116fp5gppxym9u0y3hskjxm8ycbgfkgqss5lkry9ps&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=burakbdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
