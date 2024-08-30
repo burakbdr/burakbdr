@@ -49,11 +49,7 @@
 
 <p align="left">I'm particularly interested in financial markets and enjoy exploring how data science can provide insights and drive decisions in the market. If you have any ideas or projects related to financial markets, I'd love to hear from you!</p>
 
-###
 
-<img align="right" height="200" src="https://media.giphy.com/media/QEArKBwKJm12r8t7w6/giphy.gif?cid=790b76116fp5gppxym9u0y3hskjxm8ycbgfkgqss5lkry9ps&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=burakbdr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
